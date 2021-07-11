@@ -33,7 +33,7 @@ public class QualitestAssignmentHelper {
 
         } catch (Exception e) {
             e.printStackTrace();
-            //driver.quit();
+            driver.quit();
         }
 
     }
