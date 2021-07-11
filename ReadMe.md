@@ -15,3 +15,5 @@ Feature File - The feature file specifies the steps in BDD language style
 Step Definition Feature File - Java class whereby the steps from the feature file are broken down to be coded into automation tests
 
 ChromeDriver.exe - Local chromedriver necessary in order
+
+Screen shot  link: https://github.com/rrawat93/QualitestAssignment/tree/master/Screenshots
